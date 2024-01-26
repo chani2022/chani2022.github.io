@@ -40,6 +40,8 @@ Apk est une site web qui utilise plusieurs technologies web assez répandues.
   <p><strong><i>Au départ, cette site a été conçue et développer avec la technologie de socket.</i></strong></p>
   <h3>Modules futures</h3>
   <ul>
+    <li>SEO google</li>
+    <li>Moteur de recherche sur le site</li>
     <li>Géolocalisation des visiteurs</li>
     <li>etc...</li>
   </ul>
